@@ -1,9 +1,8 @@
 Open Fiver
 =========
 
-------------------------------------------------
-My C# Implementation of the famous Fiver puzzle, aka "Lights Out".
------------------------------------------------------------------
+My C# Implementation of the famous Fiver puzzle.
+-----------------------------------------------
 You can find more about the game here: http://en.wikipedia.org/wiki/Lights_Out_(game)
 
 The traditional game was a 5x5 game, but I wanted to implement a one with unlimited size and see what happens.
