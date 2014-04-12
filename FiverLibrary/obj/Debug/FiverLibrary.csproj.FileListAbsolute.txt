@@ -1,0 +1,5 @@
+F:\Work-Space\VS-Proj\OpenFiver\FiverLibrary\bin\Debug\FiverLibrary.dll
+F:\Work-Space\VS-Proj\OpenFiver\FiverLibrary\bin\Debug\FiverLibrary.pdb
+F:\Work-Space\VS-Proj\OpenFiver\FiverLibrary\obj\Debug\FiverLibrary.csprojResolveAssemblyReference.cache
+F:\Work-Space\VS-Proj\OpenFiver\FiverLibrary\obj\Debug\FiverLibrary.dll
+F:\Work-Space\VS-Proj\OpenFiver\FiverLibrary\obj\Debug\FiverLibrary.pdb

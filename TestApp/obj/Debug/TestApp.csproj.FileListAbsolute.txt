@@ -1,0 +1,12 @@
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\bin\Debug\TestApp.exe.config
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.MainForm.resources
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.SizeForm.resources
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\bin\Debug\TestApp.exe
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\bin\Debug\TestApp.pdb
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\bin\Debug\FiverLibrary.dll
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\bin\Debug\FiverLibrary.pdb
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.exe
+F:\Work-Space\VS-Proj\OpenFiver\TestApp\obj\Debug\TestApp.pdb
